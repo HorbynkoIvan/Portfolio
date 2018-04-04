@@ -11,14 +11,14 @@ body {
 }
 
 nav{
-    background-color: #005dc7;;
+    background-color: #060606;;
 }
 
 .nav-pills {
     font-size: 1.7em;
 }
 
-.fa-linkedin {
+.fa-linkedin-in {
     color: rgb(0, 127, 178);
 }
 
@@ -26,42 +26,8 @@ nav{
     color: rgb(102, 43, 129);
 }
 
-.fa-facebook {
+.fa-facebook-f {
     color: rgb(59, 89, 163);
-}
-
-.pageOne {
-    background-image: url("https://images.pexels.com/photos/96377/pexels-photo-96377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-    background-size: cover;
-    width: 100%;
-    height: 100vh;
-    padding-top: 8%;
-}
-
-.pageOne h1 {
-    padding: 0;
-    margin: 0 0 0 0;
-    font-size: 5em;
-    color: #ffffff;
-}
-
-.pageOne h2 {
-    font-size: 3em;
-    color: #ffffff;
-    text-transform: capitalize;
-}
-
-.pageOne .btn-list {
-    margin-top: 25px;
-}
-
-.block {
-    margin: 0 auto;
-    width: 50%;
-    background-color: black;
-    opacity: .4;
-    border-radius: 7px;
-    padding: 5px;
 }
 
 .pageTwo {
