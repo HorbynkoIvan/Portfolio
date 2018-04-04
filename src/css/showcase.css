@@ -69,9 +69,9 @@
     margin: 40px 0;
 }
 
-/*------------button 1-----------*/
+/*------------button start-----------*/
 
-a {
+.btn-list a {
     -webkit-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
     -moz-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
     -ms-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
@@ -83,19 +83,16 @@ a {
     text-decoration: none;
     border-radius: 4px;
     padding: 20px 30px;
-}
-
-a.button {
     color: honeydew;
     box-shadow: rgba(30, 22, 54, 0.4) 0 0px 0px 2px inset;
     border: 1px solid honeydew;
     transition: border-width 0.6s linear;
 }
 
-a.button:hover {
+.btn-list a:hover {
     /*color: rgba(255, 255, 255, 0.85);*/
     box-shadow: rgba(30, 22, 54, 0.7) 0 0px 0px 40px inset;
     border-width: 5px;
 }
-
+/*------------button end-----------*/
 

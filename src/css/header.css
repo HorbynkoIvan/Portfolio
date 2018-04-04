@@ -1,0 +1,17 @@
+nav {
+    background-color: #010206;
+    text-transform: capitalize;
+}
+
+nav ul a {
+    font-size: 1.5rem;
+    color: honeydew;
+}
+
+nav .brand-logo {
+    padding: 0 1rem;
+    color: honeydew;
+}
+nav ul a:hover {
+    box-shadow: rgba(30, 22, 54, 0.7) 0 0px 0px 40px inset;
+}

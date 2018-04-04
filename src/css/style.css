@@ -5,19 +5,6 @@ body {
     color: #ffffff !important;
 }
 
-.container-fluid {
-    padding-right: 0 !important;
-    padding-left: 0 !important;
-}
-
-nav{
-    background-color: #060606;;
-}
-
-.nav-pills {
-    font-size: 1.7em;
-}
-
 .fa-linkedin-in {
     color: rgb(0, 127, 178);
 }
