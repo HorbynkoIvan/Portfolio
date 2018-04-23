@@ -1,5 +1,6 @@
 .about {
-    background: #000000;
+    background-image: url("https://images.pexels.com/photos/256152/pexels-photo-256152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
     width: 100%;
     height: auto;
     font-size: 1.5rem;
@@ -13,4 +14,11 @@
     padding: 20px 30px !important;
     text-indent: 1.5rem; /* Отступ первой строки */
     text-align: justify; /* Выравнивание по ширине */
+}
+
+.slider .slides li .caption {
+    top: 40%;
+    width: 80%;
+    opacity: 0.7 !important;
+
 }
