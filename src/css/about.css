@@ -1,8 +1,8 @@
 .about {
-    background-image: url("https://images.pexels.com/photos/256152/pexels-photo-256152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-image: url("https://images.pexels.com/photos/176851/pexels-photo-176851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
     background-size: cover;
     width: 100%;
-    height: auto;
+    height: 100vh;
     font-size: 1.5rem;
 }
 
@@ -10,10 +10,15 @@
     width: 100%;
     height: auto;
 }
-.about_me{
+
+.about_me {
     padding: 20px 30px !important;
     text-indent: 1.5rem; /* Отступ первой строки */
     text-align: justify; /* Выравнивание по ширине */
+}
+
+.about_me_slider {
+    margin: 40px auto;
 }
 
 .slider .slides li .caption {
