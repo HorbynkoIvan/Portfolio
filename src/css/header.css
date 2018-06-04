@@ -1,6 +1,7 @@
 nav {
     background-color: #010206;
     text-transform: capitalize;
+    border-bottom: 3px solid #04C2C9;
 }
 
 nav ul a {
