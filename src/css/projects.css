@@ -1,0 +1,17 @@
+/*
+.projects_list{
+     display: flex;
+     justify-content: space-between;!*themes are evenly distributed in the line;
+                                     first item is on the start line, last item on the end line*!
+     flex-wrap: wrap;!*flex items will wrap onto multiple lines, from top to bottom.*!
+     margin-top: 16px;
+     margin-bottom: 16px;
+     width: 100%;
+ }
+
+.projects_list_card{
+    width: 100%;
+    max-width: 320px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}*/

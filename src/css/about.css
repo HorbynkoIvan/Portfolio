@@ -16,6 +16,9 @@
     text-indent: 1.5rem; /* Отступ первой строки */
     text-align: justify; /* Выравнивание по ширине */
 }
+.about_me h2 {
+    text-transform: uppercase;
+}
 
 .about_me_slider {
     margin: 40px auto;
