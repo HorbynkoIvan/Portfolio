@@ -1,3 +1,14 @@
+.projects {
+    background-image: url("https://images.pexels.com/photos/87089/rocket-lift-off-liftoff-astronautics-87089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    width: 100%;
+    /*height: 100vh;*/
+    padding: 20px 10px;
+}
+
+.projects_list_card{
+   color:#000000;
+}
 /*
 .projects_list{
      display: flex;
